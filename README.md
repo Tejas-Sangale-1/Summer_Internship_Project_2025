@@ -9,7 +9,7 @@ Affiliations:
 
 Hi Everyone! 
 
-This notebook helps people working on acoustic annotations and detection of vocal patterns in birds.
+This [notebook](JNCASR_Final_Summer_Internship_Project_2025_V6.ipynb) helps people working on acoustic annotations and detection of vocal patterns in birds.
 <br>
 Please feel free to use this program along with RavenPro software.
 
