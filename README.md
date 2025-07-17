@@ -14,4 +14,4 @@ This notebook helps people working on acoustic annotations and detection of voca
 Please feel free to use this program along with RavenPro software.
 
 Credits:
--  Cornell Lab of Ornithology for providing the access for RavenPro Software
+-  Cornell Lab of Ornithology for providing the access to the RavenPro Software
